@@ -1,2 +1,1 @@
-Git Learning is Good and cool
-this is remo branch 
+Git Learning is Good and coool
